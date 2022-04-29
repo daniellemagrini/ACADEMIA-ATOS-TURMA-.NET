@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 /*
- * 1) Escreva um programa em C# e no Visual Studio
- * para calcular a média aritmética entre dois números quaisquer.
+ * 2) Escreva um programa em C# e no Visual Studio
+ * para calcular a média aritmética entre quatro números quaisquer.
 **/
 
 Console.WriteLine("Exercício 2 - Aula 2");

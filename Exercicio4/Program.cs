@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 /*
- * 1) Escreva um programa em C# e no Visual Studio
- * para calcular a média aritmética entre dois números quaisquer.
+ * 4) Faça um programa em C# e no Visual Studio que receba a data na forma DDMMAAAA
+ * e imprima na forma AAAAMMDD e AAMMDD. Note que o dia, o mês e o ano devem ser lidos
+ * em variáveis diferentes.
 **/
 
 Console.WriteLine("Exercício 4 - Aula 2");

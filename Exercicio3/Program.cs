@@ -1,6 +1,6 @@
 ﻿/*
- * 1) Escreva um programa em C# e no Visual Studio
- * para calcular a média aritmética entre dois números quaisquer.
+ * 3) Escreva a seqüência de atribuições, em forma de programa em C# e no Visual Studio,
+ * para trocar entre si os valores de duas variáveis A e B.
 **/
 
 Console.WriteLine("Exercício 3 - Aula 2");
