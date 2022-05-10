@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\ExercicioDesafioString.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\ExercicioDesafioString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\ExercicioDesafioString.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\ExercicioDesafioString.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\ExercicioDesafioString.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\bin\Debug\net6.0\ExercicioDesafioString.exe
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\bin\Debug\net6.0\ExercicioDesafioString.deps.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\bin\Debug\net6.0\ExercicioDesafioString.runtimeconfig.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\bin\Debug\net6.0\ExercicioDesafioString.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\bin\Debug\net6.0\ExercicioDesafioString.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\ExercicioDesafioString.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\refint\ExercicioDesafioString.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\ExercicioDesafioString.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\ExercicioDesafioString.genruntimeconfig.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExercicioDesafioString\obj\Debug\net6.0\ref\ExercicioDesafioString.dll
