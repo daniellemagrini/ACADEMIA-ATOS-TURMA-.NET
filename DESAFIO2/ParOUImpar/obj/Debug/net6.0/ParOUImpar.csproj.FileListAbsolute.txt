@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\bin\Debug\net6.0\ParOUImpar.exe
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\bin\Debug\net6.0\ParOUImpar.deps.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\bin\Debug\net6.0\ParOUImpar.runtimeconfig.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\bin\Debug\net6.0\ParOUImpar.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\bin\Debug\net6.0\ParOUImpar.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\ParOUImpar.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\ParOUImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\ParOUImpar.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\ParOUImpar.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\ParOUImpar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\ParOUImpar.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\refint\ParOUImpar.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\ParOUImpar.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\ParOUImpar.genruntimeconfig.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\EXTRAS\ParOUImpar\obj\Debug\net6.0\ref\ParOUImpar.dll
