@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\ExemploClasse.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\ExemploClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\ExemploClasse.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\ExemploClasse.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\ExemploClasse.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\bin\Debug\net6.0\ExemploClasse.exe
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\bin\Debug\net6.0\ExemploClasse.deps.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\bin\Debug\net6.0\ExemploClasse.runtimeconfig.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\bin\Debug\net6.0\ExemploClasse.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\bin\Debug\net6.0\ExemploClasse.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\ExemploClasse.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\refint\ExemploClasse.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\ExemploClasse.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\ExemploClasse.genruntimeconfig.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\ExemploClasse\obj\Debug\net6.0\ref\ExemploClasse.dll

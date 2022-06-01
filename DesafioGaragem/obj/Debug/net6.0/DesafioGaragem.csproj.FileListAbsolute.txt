@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\DesafioGaragem.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\DesafioGaragem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\DesafioGaragem.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\DesafioGaragem.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\DesafioGaragem.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\bin\Debug\net6.0\DesafioGaragem.exe
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\bin\Debug\net6.0\DesafioGaragem.deps.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\bin\Debug\net6.0\DesafioGaragem.runtimeconfig.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\bin\Debug\net6.0\DesafioGaragem.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\bin\Debug\net6.0\DesafioGaragem.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\DesafioGaragem.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\refint\DesafioGaragem.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\DesafioGaragem.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\DesafioGaragem.genruntimeconfig.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\DesafioGaragem\obj\Debug\net6.0\ref\DesafioGaragem.dll

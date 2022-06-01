@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\PublicExemplo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\PublicExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\PublicExemplo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\PublicExemplo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\PublicExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\bin\Debug\net6.0\PublicExemplo.exe
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\bin\Debug\net6.0\PublicExemplo.deps.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\bin\Debug\net6.0\PublicExemplo.runtimeconfig.json
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\bin\Debug\net6.0\PublicExemplo.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\bin\Debug\net6.0\PublicExemplo.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\PublicExemplo.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\refint\PublicExemplo.dll
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\PublicExemplo.pdb
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\PublicExemplo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\DANI\ACADEMIA ATOS\ALEXANDRE\PublicExemplo\obj\Debug\net6.0\ref\PublicExemplo.dll
