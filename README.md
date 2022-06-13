@@ -1,2 +1,1 @@
-# Aula2-28042022
-Respostas dos exercícios da aula 2, do dia 28/04/2022 do professor Alexandre
+Exercícios feitos durante a Academia Atos 2022 (.net)
